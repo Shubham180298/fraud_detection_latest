@@ -9,3 +9,5 @@ def model2():
 
 def model3():
     print("model3 created")
+
+print("model2 is best")
